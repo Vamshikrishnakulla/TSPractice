@@ -1,0 +1,18 @@
+{
+  "orderDetails": [
+    {
+      "userName": "yanku@gmail.com",
+      "userPassword": "Yanku@nair1",
+      "productName": "ZARA COAT 3",
+      "country": "India",
+      "url": "https://rahulshettyacademy.com/client"
+    },
+    {
+      "userName": "yanku@gmail.com",
+      "userPassword": "Yanku@nair1",
+      "productName": "ADIDAS ORIGINAL",
+      "country": "Cuba",
+      "url": "https://rahulshettyacademy.com/client"
+    }
+  ]
+}
